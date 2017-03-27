@@ -1,0 +1,46 @@
+"*":
+  "activate-power-mode":
+    particles:
+      size: {}
+      spawnCount: {}
+      totalCount: {}
+    screenShake: {}
+  "autocomplete-python":
+    useKite: false
+  core:
+    allowPendingPaneItems: false
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "one-dark-vivid-syntax"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "4d41bdec-a6be-0631-b300-7e9982bfbb99"
+  "genesis-ui":
+    distractionFree: {}
+  "git-history": {}
+  kite:
+    showKiteTourOnStatup: false
+  linter: {}
+  "linter-ui-default":
+    showPanel: true
+  metrics:
+    userId: "c58150f78c58a8d094f79146c16524845a8a57ca"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "release-notes":
+    viewedVersion: "0.95.0"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
